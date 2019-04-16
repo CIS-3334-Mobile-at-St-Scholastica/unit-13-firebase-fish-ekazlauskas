@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420227070152",
+    "firebase_url": "https://unit-13-participation.firebaseio.com",
+    "project_id": "unit-13-participation",
+    "storage_bucket": "unit-13-participation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420227070152:android:bd4a6cd2f2213086",
+        "android_client_info": {
+          "package_name": "edu.css.unit13_firebasefish_2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420227070152-mhq6thj0cl9aeome773d85konlocgv3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.css.unit13_firebasefish_2018",
+            "certificate_hash": "11ded000ce4bd830ff5fa28dfea16dde4d23e9d7"
+          }
+        },
+        {
+          "client_id": "420227070152-fh3jce774issc733cihu5r6c1qhva5nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjA3Gt7IAZEfMOgJMHyCI3pmW36QwPntk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420227070152-fh3jce774issc733cihu5r6c1qhva5nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
